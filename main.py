@@ -8,4 +8,4 @@ st.set_page_config(page_title="Our Computer Shop", page_icon=":wave:", layout="w
 
 st.subheader("Hi, I am RACEL :wave:")
 st.title("Computer Parts")
-st.write("Testing")
+st.write("Updated Texts")
